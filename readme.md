@@ -64,3 +64,5 @@ npm run node
 ```bash
 npx <nombre_dependencia>
 ```
+npx = node package execute
+npm = node package manager
