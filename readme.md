@@ -94,3 +94,11 @@ npm audit fix
 ```bash
 npm audit fix --force
 ```
+### Desinstalar dependencias
+```bash
+npm uninstall <nombre_dependencia>
+```
+### Instalación de dependencias con la forma ci
+```bash
+npm ci
+```
