@@ -75,3 +75,22 @@ npm update
 ```bash
 npm outdated
 ```
+
+### auditoria informe de vulnerabilidades au
+```bash
+npm audit
+```
+
+### Aditoria en json
+```bash 
+npm audit --json
+```
+### Auditoria con el fix
+```bash
+npm audit fix
+```
+
+### Auditoria y fix de forma forzada
+```bash
+npm audit fix --force
+```
