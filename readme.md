@@ -66,3 +66,12 @@ npx <nombre_dependencia>
 ```
 npx = node package execute
 npm = node package manager
+
+### Actualizar dependencias
+```bash
+npm update
+```
+### Dependencias por actualizar
+```bash
+npm outdated
+```
