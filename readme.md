@@ -102,3 +102,15 @@ npm uninstall <nombre_dependencia>
 ```bash
 npm ci
 ```
+
+
+# Pasos para publicar un packete en npm
+
+## linkear el proyecto con npm
+```bash
+npm link
+```
+## iniciar sesión en la consola
+```bash
+npm adduser
+```
